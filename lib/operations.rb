@@ -1,4 +1,4 @@
-def unsafe?(speed)
+`def unsafe?(speed)
 <<<<<<< HEAD
 if speed.between?(40,60)
   false
